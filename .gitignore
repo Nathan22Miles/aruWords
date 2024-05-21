@@ -1,0 +1,8 @@
+local
+.DS_Store
+*.json
+*.xml
+*.usx
+*.zip
+*.dat
+*.tsv
